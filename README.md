@@ -35,3 +35,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=00pow&hide=stars&count_private=true&hide_rank=true&show_icons=true">
 
 </div>
+
+<h3 align="center"> :email: Contact </h3>
+<hr>
+<div align="center">
+
+<a href="https://00pow.github.io/">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:kimseo131612@gmail.com">
+    <img
+      src="https://img.shields.io/badge/kimseo131612@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <hr>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00pow%2F00pow.github.io&count_bg=%23E3B9B3&title_bg=%23903535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+</div>
